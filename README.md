@@ -24,7 +24,7 @@ It also needs libbootimg:
 
 ###Build
 
-Clone repo to folder `system/extras/multirom` inside Android 4.x source tree.
+Clone repo to folder `system/extras/multirom` inside Android 4.0+ source tree.
 MultiROM also needs libbootimg ( https://github.com/Tasssadar/libbootimg )
 in folder `system/extras/libbootimg`. 
 
